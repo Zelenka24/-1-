@@ -1,0 +1,9 @@
+main (){
+    INTEGER one;
+    COMPLEX Two;
+    one = 1;
+    Two = CMPLX(-1, 2);
+    Two = CABS(Two);
+    }
+    + -
+    

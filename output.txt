@@ -1,0 +1,17 @@
+Тип лексемы | Лексема    | Индекс в хеш-таблице
+   OPERATOR |          + | 0
+   OPERATOR |          - | 2
+         ID |        Two | 5
+      CONST |          1 | 6
+         ID |        one | 13
+    !ERROR! |          ; | 
+   OPERATOR |          = | 18
+    KEYWORD |    INTEGER | 58
+      CONST |    (-1, 2) | 65
+   FUNCTION |       CABS | 72
+    !ERROR! |          { | 
+    !ERROR! |          } | 
+         ID |       main | 86
+ SEPARATORS |          ( | 98
+ SEPARATORS |          ) | 99
+    KEYWORD |    COMPLEX | 100
